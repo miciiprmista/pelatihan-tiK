@@ -9,7 +9,7 @@ body {
     margin: 50px auto;
     padding: 20px;
     Bacground-color: white;
-    border-radiasi: 15px;
+    border-radius: 15px;
     box-shadow: 0 4px 8px rgba(0,0,0.1)
 }
 
@@ -20,7 +20,7 @@ body {
 }
 .kartu-profil {
     /* . . . (kode dari slide sebelumnya) . . . */
-    text-aligan: center;
+    text-align: center;
 }
   
       
